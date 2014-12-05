@@ -1,2 +1,1 @@
-Rush_Wordpress
-==============
+1st RUSH *v*

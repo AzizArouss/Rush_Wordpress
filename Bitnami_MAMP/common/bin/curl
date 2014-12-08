@@ -1,0 +1,8 @@
+#!/bin/sh
+LD_LIBRARY_PATH="/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/lib:$LD_LIBRARY_PATH"
+DYLD_LIBRARY_PATH="/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/lib:$DYLD_LIBRARY_PATH"
+CURL_CA_BUNDLE="/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/openssl/certs/curl-ca-bundle.crt"
+export LD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH
+export CURL_CA_BUNDLE
+exec /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/bin/curl.bin "$@"

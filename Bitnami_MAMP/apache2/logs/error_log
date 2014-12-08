@@ -1,0 +1,40 @@
+[Fri Dec 05 21:33:35.530799 2014] [ssl:warn] [pid 65157] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 21:33:35.571974 2014] [ssl:warn] [pid 65158] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 21:33:35.573658 2014] [mpm_prefork:notice] [pid 65158] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 21:33:35.573693 2014] [core:notice] [pid 65158] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 21:33:40.345941 2014] [mpm_prefork:notice] [pid 65158] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 21:33:44.495547 2014] [ssl:warn] [pid 65184] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 21:33:44.537744 2014] [ssl:warn] [pid 65185] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 21:33:44.539393 2014] [mpm_prefork:notice] [pid 65185] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 21:33:44.539427 2014] [core:notice] [pid 65185] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 21:40:45.573152 2014] [mpm_prefork:notice] [pid 65185] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 21:40:51.250856 2014] [ssl:warn] [pid 67514] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 21:40:51.293677 2014] [ssl:warn] [pid 67515] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 21:40:51.298698 2014] [mpm_prefork:notice] [pid 67515] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 21:40:51.298730 2014] [core:notice] [pid 67515] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 22:09:19.687765 2014] [mpm_prefork:notice] [pid 67515] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 22:09:23.773681 2014] [ssl:warn] [pid 73336] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:09:23.814668 2014] [ssl:warn] [pid 73337] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:09:23.816563 2014] [mpm_prefork:notice] [pid 73337] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 22:09:23.816597 2014] [core:notice] [pid 73337] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 22:32:19.815939 2014] [mpm_prefork:notice] [pid 73337] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 22:33:05.335975 2014] [ssl:warn] [pid 77567] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:33:05.374046 2014] [ssl:warn] [pid 77568] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:33:05.375609 2014] [mpm_prefork:notice] [pid 77568] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 22:33:05.375640 2014] [core:notice] [pid 77568] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 22:39:02.770259 2014] [mpm_prefork:notice] [pid 77568] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 22:39:46.856234 2014] [ssl:warn] [pid 78778] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:39:46.895273 2014] [ssl:warn] [pid 78779] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:39:46.896959 2014] [mpm_prefork:notice] [pid 78779] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 22:39:46.896993 2014] [core:notice] [pid 78779] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 22:41:50.368192 2014] [mpm_prefork:notice] [pid 78779] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 22:42:34.743108 2014] [ssl:warn] [pid 79483] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:42:34.781236 2014] [ssl:warn] [pid 79484] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:42:34.782836 2014] [mpm_prefork:notice] [pid 79484] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 22:42:34.782881 2014] [core:notice] [pid 79484] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+[Fri Dec 05 22:58:03.797309 2014] [mpm_prefork:notice] [pid 79484] AH00169: caught SIGTERM, shutting down
+[Fri Dec 05 22:58:47.300746 2014] [ssl:warn] [pid 83458] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:58:47.343536 2014] [ssl:warn] [pid 83460] AH01909: RSA certificate configured for localhost:8443 does NOT include an ID which matches the server name
+[Fri Dec 05 22:58:47.345113 2014] [mpm_prefork:notice] [pid 83460] AH00163: Apache/2.4.7 (Unix) PHP/5.4.26 OpenSSL/1.0.1f configured -- resuming normal operations
+[Fri Dec 05 22:58:47.345145 2014] [core:notice] [pid 83460] AH00094: Command line: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin/httpd -f /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/conf/httpd.conf'
+sh: /usr/bin/sendmail: No such file or directory

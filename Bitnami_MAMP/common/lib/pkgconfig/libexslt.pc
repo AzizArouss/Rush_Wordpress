@@ -1,0 +1,12 @@
+prefix=/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libexslt
+Version: 0.8.15
+Description: EXSLT Extension library
+Requires: libxml-2.0
+Libs: -L${libdir} -lexslt -lxslt  -L/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/lib -lxml2 -lz -lpthread -liconv -lm  
+Cflags: -I${includedir}

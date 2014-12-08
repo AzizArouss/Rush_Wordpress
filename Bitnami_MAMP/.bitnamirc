@@ -1,0 +1,5 @@
+
+if [[ -s "/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/git/scripts/git-completion.bash" ]]; then  
+   source "/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/git/scripts/git-completion.bash" 
+fi
+GIT_PS1_SHOWDIRTYSTATE=true

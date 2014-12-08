@@ -1,0 +1,169 @@
+141205 21:32:57 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 21:32:57 [Note] Plugin 'FEDERATED' is disabled.
+141205 21:32:57 InnoDB: The InnoDB memory heap is disabled
+141205 21:32:57 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 21:32:57 InnoDB: Compressed tables use zlib 1.2.3
+141205 21:32:57 InnoDB: Initializing buffer pool, size = 128.0M
+141205 21:32:57 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+141205 21:32:57  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+141205 21:32:57  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+141205 21:32:57  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+141205 21:32:57  InnoDB: Waiting for the background threads to start
+141205 21:32:58 InnoDB: 5.5.36 started; log sequence number 0
+141205 21:32:58 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 21:32:58 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 21:32:58 [Note] Server socket created on IP: '127.0.0.1'.
+141205 21:32:58 [Note] Event Scheduler: Loaded 0 events
+141205 21:32:58 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141205 22:32:24 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Normal shutdown
+
+141205 22:32:24 [Note] Event Scheduler: Purging the queue. 0 events
+141205 22:32:24  InnoDB: Starting shutdown...
+141205 22:32:25  InnoDB: Shutdown completed; log sequence number 1595675
+141205 22:32:25 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Shutdown complete
+
+141205 22:32:25 mysqld_safe mysqld from pid file /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data/mysqld.pid ended
+141205 22:32:32 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 22:32:33 [Note] Plugin 'FEDERATED' is disabled.
+141205 22:32:33 InnoDB: The InnoDB memory heap is disabled
+141205 22:32:33 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 22:32:33 InnoDB: Compressed tables use zlib 1.2.3
+141205 22:32:33 InnoDB: Initializing buffer pool, size = 128.0M
+141205 22:32:33 InnoDB: Completed initialization of buffer pool
+141205 22:32:33 InnoDB: highest supported file format is Barracuda.
+141205 22:32:33  InnoDB: Waiting for the background threads to start
+141205 22:32:34 InnoDB: 5.5.36 started; log sequence number 1595675
+141205 22:32:34 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 22:32:34 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 22:32:34 [Note] Server socket created on IP: '127.0.0.1'.
+141205 22:32:34 [Note] Event Scheduler: Loaded 0 events
+141205 22:32:34 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141205 22:39:05 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Normal shutdown
+
+141205 22:39:05 [Note] Event Scheduler: Purging the queue. 0 events
+141205 22:39:05  InnoDB: Starting shutdown...
+141205 22:39:06  InnoDB: Shutdown completed; log sequence number 1595675
+141205 22:39:06 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Shutdown complete
+
+141205 22:39:15 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 22:39:15 [Note] Plugin 'FEDERATED' is disabled.
+141205 22:39:15 InnoDB: The InnoDB memory heap is disabled
+141205 22:39:15 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 22:39:15 InnoDB: Compressed tables use zlib 1.2.3
+141205 22:39:15 InnoDB: Initializing buffer pool, size = 128.0M
+141205 22:39:15 InnoDB: Completed initialization of buffer pool
+141205 22:39:15 InnoDB: highest supported file format is Barracuda.
+141205 22:39:15  InnoDB: Waiting for the background threads to start
+141205 22:39:16 InnoDB: 5.5.36 started; log sequence number 1595675
+141205 22:39:16 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 22:39:16 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 22:39:16 [Note] Server socket created on IP: '127.0.0.1'.
+141205 22:39:16 [Note] Event Scheduler: Loaded 0 events
+141205 22:39:16 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141205 22:41:53 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Normal shutdown
+
+141205 22:41:53 [Note] Event Scheduler: Purging the queue. 0 events
+141205 22:41:53  InnoDB: Starting shutdown...
+141205 22:41:53  InnoDB: Shutdown completed; log sequence number 1595675
+141205 22:41:53 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Shutdown complete
+
+141205 22:42:01 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 22:42:01 [Note] Plugin 'FEDERATED' is disabled.
+141205 22:42:01 InnoDB: The InnoDB memory heap is disabled
+141205 22:42:01 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 22:42:01 InnoDB: Compressed tables use zlib 1.2.3
+141205 22:42:01 InnoDB: Initializing buffer pool, size = 128.0M
+141205 22:42:01 InnoDB: Completed initialization of buffer pool
+141205 22:42:01 InnoDB: highest supported file format is Barracuda.
+141205 22:42:01  InnoDB: Waiting for the background threads to start
+141205 22:42:02 InnoDB: 5.5.36 started; log sequence number 1595675
+141205 22:42:02 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 22:42:02 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 22:42:02 [Note] Server socket created on IP: '127.0.0.1'.
+141205 22:42:02 [Note] Event Scheduler: Loaded 0 events
+141205 22:42:02 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141205 22:45:41 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Normal shutdown
+
+141205 22:45:41 [Note] Event Scheduler: Purging the queue. 0 events
+141205 22:45:41  InnoDB: Starting shutdown...
+141205 22:45:41  InnoDB: Shutdown completed; log sequence number 1595675
+141205 22:45:41 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Shutdown complete
+
+141205 22:45:50 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 22:45:50 [Note] Plugin 'FEDERATED' is disabled.
+141205 22:45:50 InnoDB: The InnoDB memory heap is disabled
+141205 22:45:50 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 22:45:50 InnoDB: Compressed tables use zlib 1.2.3
+141205 22:45:50 InnoDB: Initializing buffer pool, size = 128.0M
+141205 22:45:50 InnoDB: Completed initialization of buffer pool
+141205 22:45:50 InnoDB: highest supported file format is Barracuda.
+141205 22:45:50  InnoDB: Waiting for the background threads to start
+141205 22:45:51 InnoDB: 5.5.36 started; log sequence number 1595675
+141205 22:45:51 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 22:45:51 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 22:45:51 [Note] Server socket created on IP: '127.0.0.1'.
+141205 22:45:51 [Note] Event Scheduler: Loaded 0 events
+141205 22:45:51 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141205 22:47:15 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Normal shutdown
+
+141205 22:47:15 [Note] Event Scheduler: Purging the queue. 0 events
+141205 22:47:15  InnoDB: Starting shutdown...
+141205 22:47:15  InnoDB: Shutdown completed; log sequence number 1595675
+141205 22:47:15 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Shutdown complete
+
+141205 22:47:24 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 22:47:24 [Note] Plugin 'FEDERATED' is disabled.
+141205 22:47:24 InnoDB: The InnoDB memory heap is disabled
+141205 22:47:24 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 22:47:24 InnoDB: Compressed tables use zlib 1.2.3
+141205 22:47:24 InnoDB: Initializing buffer pool, size = 128.0M
+141205 22:47:24 InnoDB: Completed initialization of buffer pool
+141205 22:47:24 InnoDB: highest supported file format is Barracuda.
+141205 22:47:24  InnoDB: Waiting for the background threads to start
+141205 22:47:25 InnoDB: 5.5.36 started; log sequence number 1595675
+141205 22:47:25 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 22:47:25 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 22:47:25 [Note] Server socket created on IP: '127.0.0.1'.
+141205 22:47:25 [Note] Event Scheduler: Loaded 0 events
+141205 22:47:25 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141205 22:58:07 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Normal shutdown
+
+141205 22:58:07 [Note] Event Scheduler: Purging the queue. 0 events
+141205 22:58:07  InnoDB: Starting shutdown...
+141205 22:58:07  InnoDB: Shutdown completed; log sequence number 1595675
+141205 22:58:07 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: Shutdown complete
+
+141205 22:58:15 mysqld_safe Starting mysqld.bin daemon with databases from /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/data
+141205 22:58:15 [Note] Plugin 'FEDERATED' is disabled.
+141205 22:58:15 InnoDB: The InnoDB memory heap is disabled
+141205 22:58:15 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141205 22:58:15 InnoDB: Compressed tables use zlib 1.2.3
+141205 22:58:15 InnoDB: Initializing buffer pool, size = 128.0M
+141205 22:58:15 InnoDB: Completed initialization of buffer pool
+141205 22:58:15 InnoDB: highest supported file format is Barracuda.
+141205 22:58:15  InnoDB: Waiting for the background threads to start
+141205 22:58:16 InnoDB: 5.5.36 started; log sequence number 1595675
+141205 22:58:16 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141205 22:58:16 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141205 22:58:16 [Note] Server socket created on IP: '127.0.0.1'.
+141205 22:58:16 [Note] Event Scheduler: Loaded 0 events
+141205 22:58:16 [Note] /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.36'  socket: '/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)

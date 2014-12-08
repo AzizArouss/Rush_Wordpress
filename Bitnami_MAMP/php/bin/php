@@ -1,0 +1,7 @@
+#!/bin/sh
+PHPRC=/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/php/etc
+export PHPRC
+PHP_PEAR_SYSCONF_DIR=/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/php/etc
+export PHP_PEAR_SYSCONF_DIR
+. /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/php/../scripts/setenv.sh
+exec /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/php/bin/php.bin "$@"

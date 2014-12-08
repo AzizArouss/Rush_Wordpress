@@ -1,0 +1,9 @@
+#!/bin/sh
+DYLD_LIBRARY_PATH=/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/lib:$DYLD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH
+case "$@" in
+  *--no-defaults*)
+    exec $0.bin "$@"
+    exit
+esac
+exec $0.bin --defaults-file=/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/my.cnf "$@"

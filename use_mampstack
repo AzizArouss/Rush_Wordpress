@@ -1,0 +1,6 @@
+#!/bin/sh
+
+PATH="/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/frameworks/laravel/app/Console:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/frameworks/cakephp/app/Console:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/frameworks/codeigniter/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/frameworks/symfony/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/frameworks/zendframework/app/Console:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/heroku/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/ruby/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/git/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/varnish/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/sqlite/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/php/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/mysql/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/apache2/bin:/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/bin:$PATH"
+
+exec bash --rcfile "/Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/.bitnamirc"
+                    

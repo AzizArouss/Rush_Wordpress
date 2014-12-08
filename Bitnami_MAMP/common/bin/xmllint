@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/scripts/setenv.sh
+
+exec /Volumes/Data/nfs/zfs-student-5/users/2014/aarouss/Bitnami_MAMP/common/bin/.xmllint.bin  "$@"
